@@ -37,3 +37,29 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
+## Demo:
+
+![alt text](<Screenshot (8).png>)
+
+- Above is the main sccreen of the project<br><br>
+
+
+![alt text](<Screenshot (9).png>)
+
+- Upload the pdf of your choice<br><br>
+
+![alt text](<Screenshot (10).png>)
+
+- Text will be extracted from the document and indexed.<br><br>
+
+![alt text](<Screenshot (11).png>)
+
+- Put in the query you want the answer to<br><br>
+
+![alt text](<Screenshot (12).png>)
+
+- In response you will receive the appropriate answeer and the portion of document referred to.<br><br>
+
+![alt text](<Screenshot (13).png>)
+- Incase there is no deta related to the query, you  will receive a text saying "The text does not provide information about ...." and also the portion that was closest and referred.
