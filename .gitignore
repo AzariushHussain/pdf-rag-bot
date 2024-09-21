@@ -1,0 +1,39 @@
+# Ignore the environment and configuration directories
+env/
+config/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+ENV/
+env.bak/
+env/
+
+# Ignore environment variable files
+.env
+
+# Ignore log files and databases
+*.log
+*.sqlite3
+
+# Ignore compiled C extensions
+*.so
+
+# Ignore Docker files
+.dockerignore
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore other system or editor specific files
+Thumbs.db
+.vscode/
+.idea/
