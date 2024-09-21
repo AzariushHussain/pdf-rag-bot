@@ -1,6 +1,5 @@
 # Ignore the environment and configuration directories
 env/
-config/
 
 # Ignore Python cache files
 __pycache__/
